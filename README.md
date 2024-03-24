@@ -1,2 +1,2 @@
 # Quiz-App
-A website where users can give quizzes and test their skills.
+A website at which user can give quizzes and test their skills.
